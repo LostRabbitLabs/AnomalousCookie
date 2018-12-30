@@ -1,3 +1,4 @@
+'-alert.call(window,%20'ruhroh')-'
 kpjak%3c%2fscript%3e%3cScRiPt%3ealert(1)%3c%2fScRiPt%3efbu5u
 ,,,,,
 ,NEW_COOKIE1(,NEW_COOKIE2(,NEW_COOKIE3()
